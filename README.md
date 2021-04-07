@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=kishansomaiya&style=flat-square)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kishansomaiya)](https://github.com/kishansomaiya/github-profile-trophy)
+
   
   <ul>
     <li><h3>I'm currently learning Javascript and React</h3></li>
