@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
   
   <ul>
-    <li><h4>I'm currently learning Javascript and React</h4></li>
-    <li><h4>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></h4></li>
+    <li><h3>I'm currently learning Javascript and React</h3></li>
+    <li><h3>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></h3></li>
   </ul>
 
   <h2>LinkedIn Profile</h2>
@@ -20,3 +20,6 @@
 
 ## Languages
 <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" />
+
+## Web Technologies
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> <img src="https://img.icons8.com/color/48/000000/css3.png" /> <img src="https://img.icons8.com/plasticine/100/000000/react.png" />
