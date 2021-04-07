@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
-<div stye="display:flex;">
+<div stye="display: inline;">
   
   <div style="float: left;">
   <ul>
