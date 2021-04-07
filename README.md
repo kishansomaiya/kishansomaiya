@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
   
   <ul>
-    <li><h3>I'm currently learning Javascript and React</h3></li>
-    <li><h3>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></h3></li>
+    <li><h4>I'm currently learning Javascript and React</h4></li>
+    <li><h4>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></h4></li>
   </ul>
 
   <h2>LinkedIn Profile</h2>
