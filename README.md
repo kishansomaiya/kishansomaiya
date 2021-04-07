@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
+
+![](https://komarev.com/ghpvc/?username=kishansomaiya&style=flat-square)
+
   
   <ul>
     <li><h3>I'm currently learning Javascript and React</h3></li>
