@@ -9,6 +9,6 @@
 
 
 ## Languages
-<img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <a href="kishansomaiya271.netlify.app"><img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
+<img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <a href="https://kishansomaiya271.netlify.app/"><img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 
 
