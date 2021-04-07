@@ -24,4 +24,4 @@
 ## Web Technologies
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" /> <img src="https://img.icons8.com/color/48/000000/css3.png" /> <img src="https://img.icons8.com/plasticine/48/000000/react.png" />
 
-![kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![kishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishansomaiya&show_icons=true&theme=radical)
