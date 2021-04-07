@@ -5,10 +5,10 @@
 
 <br />
 ## Coding Profiles
-[<img margin="0 10px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on />](https://auth.geeksforgeeks.org/user/kishansomaiya271/practice/) [<img margin="0 10px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />](https://www.codechef.com/users/kishansomaiya)
+<a href="https://auth.geeksforgeeks.org/user/kishansomaiya271/practice/" ><img margin="0 10px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" on /></a> <a href="https://www.codechef.com/users/kishansomaiya"><img margin="0 10px" width="44px" height="44px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" /></a>
 
 
 ## Languages
-<img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <a href="https://kishansomaiya271.netlify.app/"><img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" /></a>
+<img  margin="0 15px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img  margin="0 15px" src="https://img.icons8.com/color/48/000000/python.png" />
 
 
