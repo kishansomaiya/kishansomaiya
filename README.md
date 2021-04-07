@@ -1,6 +1,4 @@
-<p align="center">
-    # Hi there 👋, I'm Kishan Somaiya
-</p>
+<h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
 <!--
 **kishansomaiya/kishansomaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
