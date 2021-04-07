@@ -15,7 +15,7 @@
   </div>
 
   <div>
-    <img width="250px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
+    <img width="500px" src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" alt="" />
   </div>
 
 </div>
