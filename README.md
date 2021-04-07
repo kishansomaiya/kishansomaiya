@@ -2,7 +2,7 @@
   
   <ul>
     <li>I'm currently learning Javascript and React</li>
-    <li>Email:<br />kishansomaiya271@gmail.com</li>
+    <li>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></li>
   </ul>
 
   <h2>LinkedIn Profile</h2>
