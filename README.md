@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## LinkedIn profile
-![Linkedin](https://www.linkedin.com/in/kishan-somaiya-9825a3192/)
+[Linkedin](https://www.linkedin.com/in/kishan-somaiya-9825a3192/)
