@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
-------<h2 align="center">Web Developer</h2>
+<h2 align="center">Web Developer</h2>
 
 ![](https://komarev.com/ghpvc/?username=kishansomaiya&style=flat-square)
 
