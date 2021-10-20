@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Kishan Somaiya</h1>
 <h2 align="center">Web Developer</h2>
 
-![](https://komarev.com/ghpvc/?username=kishansomaiya&style=flat-square)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kishansomaiya&label=Profile%20views&color=0e75b6&style=flat" alt="pushpakumari5117" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishansomaiya)](https://github.com/kishansomaiya/github-profile-trophy)
 
