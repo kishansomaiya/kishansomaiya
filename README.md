@@ -7,7 +7,7 @@
 
   
   <ul>
-    <li><h3>I'm currently learning Javascript and React</h3></li>
+    <li><h3>Software develop</h3></li>
     <li><h3>Email:<br /><a href="mailto:kishansomaiya271@gmail.com">kishansomaiya271@gmail.com</a></h3></li>
   </ul>
 
